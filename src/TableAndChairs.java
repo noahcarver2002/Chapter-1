@@ -18,6 +18,8 @@ public class TableAndChairs {
         System.out.println("A         A"      );
         System.out.println("I         I"      );
         System.out.println("R         R"      );
+
+        Thia is Fun
     }
 
 
